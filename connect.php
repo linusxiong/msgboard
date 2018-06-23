@@ -1,7 +1,7 @@
 <?php  
 $host="127.0.0.1:3306";  
-$db_user="siyuanxi_admin";  
-$db_pass="xsy20040719";  
+$db_user="xxxx";  
+$db_pass="xxxx";  
 $db_name="siyuanxi_MsgBoard";  
 $timezone="Asia/Shanghai";  
   
